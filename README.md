@@ -2,6 +2,8 @@
 
 # Scott McDaniel-Rogers' Homepage
 
+[![UW Sakura image by Scott McDaniel-Rogers](IMG_4607.JPG "UW Sakura by Scott McDaniel-Rogers")]
+
 ## Academic interests and experience:
 >
 > #### I have extensive experience in the following areas of study:
