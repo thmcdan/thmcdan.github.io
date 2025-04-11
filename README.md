@@ -1,5 +1,3 @@
-# thmcdan.github.io
-
 # Scott McDaniel-Rogers' Homepage
 
 ![UW Sakura image by Scott McDaniel-Rogers](IMG_4607.JPG "UW Sakura by Scott McDaniel-Rogers")
