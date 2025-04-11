@@ -21,3 +21,6 @@
 | *Government Affairs Officer* | ASG SCC |
 | *Student Senator* | UW |
 | Leadership courses | UW |
+
+
+My Linked in profile can be found [HERE](https://www.linkedin.com/in/scottmcdanielrogers/)
