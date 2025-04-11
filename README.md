@@ -20,4 +20,4 @@
 | *Vice-President* | Honors College SCC |
 | *Government Affairs Officer* | ASG SCC |
 | *Student Senator* | UW |
-| Leadership courses |
+| Leadership courses | UW |
